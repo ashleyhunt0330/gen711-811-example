@@ -1,5 +1,8 @@
 # gen711-811-example
 
+Ashley Hunt
+Cyanobacteria
+
 ## Project Title  
 
 New proj title
